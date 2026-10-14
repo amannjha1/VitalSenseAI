@@ -1,0 +1,7 @@
+{
+  "name": "VitalSense AI",
+  "description": "AI-powered healthcare platform for preliminary health-risk assessment, preventive healthcare, vital signs monitoring, and medical report insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
